@@ -1,4 +1,4 @@
-name: Generate SBOM (C + CycloneDX)
+name: Generate SBOM (C++ + CycloneDX)
 
 on:
   push:
